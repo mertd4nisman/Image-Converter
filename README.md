@@ -1,4 +1,4 @@
-# 🖼️ Image Converter (Bulk Image to JPEG Automation)
+# 🖼️ Image Converter (Bulk Image Automation)
 
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org)
 
