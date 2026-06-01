@@ -15,3 +15,4 @@
 * **Akıllı Uzantı Yönetimi (Smart Extension Management):** Dosya adlarını bozmadan sadece uzantıları ve formatları optimize eder.
 * **Alfa Kanalı Desteği (Alpha Channel Support):** PNG'lerdeki şeffaf arka plan hatalarını (`RGBA` to `RGB`) otomatik olarak çözer.
 * **Hata Yönetimi (Error Handling):** Bozuk veya desteklenmeyen görsellerde çökmeden, kullanıcıya bilgilendirme mesajı verir.
+
